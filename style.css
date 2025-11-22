@@ -242,47 +242,12 @@ header {
     color: #888;               /* Pokémon grey icons */
 }
 
-.nav-item span {
+.nav-item , .nav-item1 , .nav-item2 , .nav-item3 , .nav-item4 , .nav-item5 , .nav-item6 span {
     font-size: 12px;
     font-weight: 500;
     text-align: center;
 }
 
-.nav-item1 span {
-    font-size: 12px;
-    font-weight: 500;
-    text-align: center;
-}
-
-.nav-item2 span {
-    font-size: 12px;
-    font-weight: 500;
-    text-align: center;
-}
-
-.nav-item3 span {
-    font-size: 12px;
-    font-weight: 500;
-    text-align: center;
-}
-
-.nav-item4 span {
-    font-size: 12px;
-    font-weight: 500;
-    text-align: center;
-}
-
-.nav-item5 span {
-    font-size: 14px;
-    font-weight: 500;
-    text-align: center;
-}
-
-.nav-item6 span {
-    font-size: 12px;
-    font-weight: 500;
-    text-align: center;
-}
 
 
 
